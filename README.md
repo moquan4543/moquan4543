@@ -133,20 +133,11 @@
 - 🌱 I’m currently learning **Vue.js**
 - 📫 How to reach me **moquan4543@gmail.com**
 
-
 ###
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moquan4543&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+<div align="left">  
+  <img src="https://i.imgur.com/8tRkoV1.png" height="150" width="650" alt="">
 </div>
-
-###
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moquan4543" alt="moquan4543" /></a> </p>
-
-###
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ###
 
