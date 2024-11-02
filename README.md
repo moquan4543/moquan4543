@@ -136,7 +136,7 @@
 ###
 
 <div align="left">  
-  <img src="https://i.imgur.com/8tRkoV1.png" height="150" width="650" alt="">
+  <img src="https://i.imgur.com/8tRkoV1.png" width="80%" height=auto alt="">
 </div>
 
 ###
