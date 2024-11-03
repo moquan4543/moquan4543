@@ -132,7 +132,10 @@
 - 🔭 I’m currently working on [moquanMIPS](https://github.com/moquan4543/moquanMIPS)
 - 🌱 I’m currently learning **Vue.js**
 - 📫 How to reach me **moquan4543@gmail.com**
+### 
 
+<a href='https://monkeytype.com/profile/moquan4543' target="_blank"><img alt='Monkeytype' src='https://img.shields.io/badge/MonkeyType-100000?style=for-the-badge&logo=Monkeytype&logoColor=FBC100&labelColor=black&color=E1E1E1'/></a>
+<a href='https://www.keybr.com/profile/v40ygwj' target="_blank"><img alt='Monkeytype' src='https://img.shields.io/badge/Keybr-100000?style=for-the-badge&logo=Monkeytype&logoColor=E8E8E8&labelColor=black&color=E1E1E1'/></a>
 ###
 
 <div align="left">  
