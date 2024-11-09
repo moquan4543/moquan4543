@@ -123,8 +123,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=moquan4543&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats-git-master-moquan4543s-projects.vercel.app/api/top-langs?username=moquan4543&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-jet-alpha.vercel.app?user=moquan4543&theme=catppuccin-mocha&border_radius=5&date_format=%5BY%20%5DM%20j" height="150" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats-git-master-moquan4543s-projects.vercel.app/api/top-langs?username=moquan4543&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=catppuccin_mocha&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
